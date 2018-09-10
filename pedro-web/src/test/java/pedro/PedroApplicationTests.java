@@ -1,4 +1,4 @@
-package com.zagboodle.games.pedro;
+package pedro;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
